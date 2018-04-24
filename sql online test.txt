@@ -1,0 +1,3 @@
+http://www.sql-ex.ru/
+https://www.wiziq.com/online-tests/784-test-your-basic-sql-skills
+http://www.sqlfiddle.com/
